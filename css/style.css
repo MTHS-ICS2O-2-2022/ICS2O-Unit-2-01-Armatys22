@@ -30,10 +30,11 @@
   font-size: 1.25rem;
 }
 
-.right-image {
-  height: auto;
-  width: 250px;
+img {
+  height: 450;
+  width: 450px;
   float: right;
+  margin-top: 5px;
 }
 
 body {
